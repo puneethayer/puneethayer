@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi, I’m Puneet 👋
 
-<!--
-**puneethayer/puneethayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I’m a Computer Science student passionate about technology, problem-solving, and continuous learning. 
+🎓 Year 1 CGPA: 9.88 / 10
+💻 Programming: Java, Python
+📚 Currently Learning: DSA & AI/ML
+🚀 Mindset: Learn. Build. Improve. Repeat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+Programming Languages
+
+* Java
+* Python
+
+Python Libraries
+
+* NumPy
+* Pandas
+* Matplotlib
+* OpenCV
+
+Currently Learning
+
+* Data Structures & Algorithms
+* Artificial Intelligence & Machine Learning
+
+Tools
+
+* Git & GitHub
+* VS Code
+
+🌱 What I’m Working On
+
+* Strengthening my programming and problem-solving skills
+* Practicing Data Structures & Algorithms
+* Exploring Artificial Intelligence & Machine Learning
+* Building projects and applying concepts through hands-on experience
+* Continuously improving through experimentation and learning
+
+🎯 My Goal
+
+To become a skilled software engineer with strong fundamentals, a problem-solving mindset, and the ability to build meaningful solutions to real-world problems.
+
+Strong determination. Continuous learning. Always willing to grow.
+
+Thanks for visiting my profile! ⭐
